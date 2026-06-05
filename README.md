@@ -1,6 +1,6 @@
 # <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7931E&center=true&vCenter=true&width=600&height=100&lines=Nada+Bensammar;Full+Stack+Developer;AI+Engineering+Student;Building+The+Future)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7931E&center=true&vCenter=true&width=600&height=100&lines=Nada +chaima+Bensammar;Full+Stack+Developer;AI+Engineering+Student;Building+The+Future)
 
 ### 👋 Welcome to My Dynamic GitHub Profile!
 
