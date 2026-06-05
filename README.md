@@ -1,6 +1,6 @@
 # <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7931E&center=true&vCenter=true&width=600&height=100&lines=Nada+Bensammar;Full+Stack+Developer;AI+Engineering+Student;Building+The+Future)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F7931E&center=true&vCenter=true&width=600&height=100&lines=Nada+Bensammar;Full+Stack+Developer;AI+Engineering+Student)
 
 ### 👋 Welcome to My Dynamic GitHub Profile!
 
@@ -26,8 +26,8 @@ const nada = {
   currentRole: "Developer & Student",
   education: "4th Year AI Engineering",
   passions: ["Building Apps", "Web Development", "AI/ML", "Problem Solving"],
-  location: "🌍 [Your Location]",
-  email: "📧 your.email@gmail.com",
+  location: "🌍 North Africa",
+  email: "📧 bensammarnadachaima@mail.com",
   status: "🚀 Open for Opportunities"
 };
 ```
@@ -267,11 +267,11 @@ Status: 🚀 In Development | Tech: Flutter | Difficulty: ⭐⭐⭐⭐
 
 | # | Project | Language | Stars | Forks | Description |
 |---|---------|----------|-------|-------|-------------|
-| 🏆 | [YALLA](https://github.com/nada-Bensammar/YALLA) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/YALLA?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/YALLA?style=flat) | Final Full Stack Project |
-| 💼 | [e-commerce-](https://github.com/nada-Bensammar/e-commerce-) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/e-commerce-?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/e-commerce-?style=flat) | Production E-Commerce |
-| ✈️ | [travel-website](https://github.com/nada-Bensammar/travel-website) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/travel-website?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/travel-website?style=flat) | Travel Booking App |
-| 📱 | [flutter-app](https://github.com/nada-Bensammar/flutter-app) | Dart | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/flutter-app?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/flutter-app?style=flat) | Mobile Application |
-| 🎓 | [backend-cours](https://github.com/nada-Bensammar/backend-cours) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/backend-cours?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/backend-cours?style=flat) | Backend Learning |
+| 🏆 | [YALLA](https://github.com/nada-Bensammar/YALLA) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/YALLA?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/YALLA?style=flat) | Full Stack Masterpiece |
+| 💼 | [e-commerce-](https://github.com/nada-Bensammar/e-commerce-) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/e-commerce-?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/e-commerce-?style=flat) | E-Commerce Platform |
+| ✈️ | [travel-website](https://github.com/nada-Bensammar/travel-website) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/travel-website?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/travel-website?style=flat) | Travel Booking Platform |
+| 📱 | [flutter-app](https://github.com/nada-Bensammar/flutter-app) | Dart | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/flutter-app?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/flutter-app?style=flat) | Flutter Mobile App |
+| 🎓 | [backend-cours](https://github.com/nada-Bensammar/backend-cours) | JavaScript | ![Stars](https://img.shields.io/github/stars/nada-Bensammar/backend-cours?style=flat) | ![Forks](https://img.shields.io/github/forks/nada-Bensammar/backend-cours?style=flat) | Backend Course |
 
 </div>
 
@@ -291,11 +291,11 @@ Status: 🚀 In Development | Tech: Flutter | Difficulty: ⭐⭐⭐⭐
 
 ### 📬 Get In Touch
 
-[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/your-profile)](https://linkedin.com/in/your-profile)
+[![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bensammarnadachaima@mail.com)](mailto:bensammarnadachaima@mail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/nada-bensammar)](https://linkedin.com/in/nada-bensammar)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/nada-Bensammar)](https://github.com/nada-Bensammar)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&link=https://your-portfolio.com)](https://your-portfolio.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/nada_bensammar)](https://twitter.com/nada_bensammar)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&link=https://nadabensammar.dev)](https://nadabensammar.dev)
 
 </div>
 
@@ -363,11 +363,11 @@ If you find my projects useful and want to support my work, you can:
 <div>
   <h4>🔗 Social & Professional Links</h4>
   
-  - 📍 **Location:** [Your Location]
-  - 📧 **Email:** [your.email@gmail.com]
-  - 💼 **LinkedIn:** [Your LinkedIn URL]
-  - 🌐 **Portfolio:** [Your Website]
-  - 🐦 **Twitter:** [@your-handle]
+  - 📍 **Location:** North Africa
+  - 📧 **Email:** bensammarnadachaima@mail.com
+  - 💼 **LinkedIn:** linkedin.com/in/nada-bensammar
+  - 🌐 **Portfolio:** nadabensammar.dev
+  - 🐦 **Twitter:** @nada_bensammar
 </div>
 
 ---
